@@ -1,0 +1,8 @@
+<!--#include virtual="inc/header.inc" -->
+<div id="frontpage">
+	<a style="float: left;" href="about.shtml" title="About the Show"><img src="images/abouttheshow.png" alt="About the Show" /></a>
+	<a style="float: right;" href="history.shtml" title="Show History"><img src="images/showhistory.png" alt="Show History" /></a>
+	<a href="gallery.shtml" title="See the Pictures"><img src="images/seethepictures.png" alt="See the Pictures" /></a>
+</div>
+
+<!--#include virtual="inc/footer.inc" -->

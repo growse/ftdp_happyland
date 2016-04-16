@@ -1,0 +1,17 @@
+<!--#include virtual="inc/header.inc" -->
+<h1>Gallery</h1>
+<ul id="gallery">
+	<li><a href="/images/n267100082_59749_4327.jpg" rel="lightbox[gallery]"><img src="/images/thumbnails/n267100082_59749_4327.jpg" /></a></li>
+	<li><a href="/images/n267100082_59751_4830.jpg" rel="lightbox[gallery]"><img src="/images/thumbnails/n267100082_59751_4830.jpg" /></a></li>
+	<li><a href="/images/n267100082_59754_5579.jpg" rel="lightbox[gallery]"><img src="/images/thumbnails/n267100082_59754_5579.jpg" /></a></li>
+	<li><a href="/images/n267100082_59760_7118.jpg" rel="lightbox[gallery]"><img src="/images/thumbnails/n267100082_59760_7118.jpg" /></a></li>
+	<li><a href="/images/n267100082_59762_7673.jpg" rel="lightbox[gallery]"><img src="/images/thumbnails/n267100082_59762_7673.jpg" /></a></li>
+	<li><a href="/images/n267100082_59776_1460.jpg" rel="lightbox[gallery]"><img src="/images/thumbnails/n267100082_59776_1460.jpg" /></a></li>
+	<li><a href="/images/n267100082_59777_1723.jpg" rel="lightbox[gallery]"><img src="/images/thumbnails/n267100082_59777_1723.jpg" /></a></li>
+	<li><a href="/images/n267100082_59779_2248.jpg" rel="lightbox[gallery]"><img src="/images/thumbnails/n267100082_59779_2248.jpg" /></a></li>
+	<li><a href="/images/n267100082_59780_2512.jpg" rel="lightbox[gallery]"><img src="/images/thumbnails/n267100082_59780_2512.jpg" /></a></li>
+	<li><a href="/images/n267100082_59782_3030.jpg" rel="lightbox[gallery]"><img src="/images/thumbnails/n267100082_59782_3030.jpg" /></a></li>
+	<li><a href="/images/n267100082_59862_8057.jpg" rel="lightbox[gallery]"><img src="/images/thumbnails/n267100082_59862_8057.jpg" /></a></li>
+	<li><a href="/images/dom.jpg" rel="lightbox[gallery]"><img src="/images/thumbnails/dom.jpg" /></a></li>
+</ul>
+<!--#include virtual="inc/footer.inc" -->

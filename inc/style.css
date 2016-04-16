@@ -1,0 +1,165 @@
+body {
+	background: url('images/background.gif') top left repeat-x;
+	font-size: 14px;
+	color: #000;
+	font-family: "Trebuchet MS", Tahoma, Bitstream Vera Sans, Sans-serif;
+	padding:20px;
+	margin:0px;
+	text-align: center;
+}
+
+a {
+	color: #000;
+	text-decoration: none;
+	border-bottom: 1px dotted #000;
+}
+
+img {
+	border: none;
+}
+
+h1, h2, h3 {
+	color: #efe92f;
+	margin: 0;
+	padding: 0;
+}
+
+h1 {
+	font-size: 2.0em;
+}
+
+h2 {
+	clear: both;
+	font-size: 1.3em;
+}
+
+h3 {
+	font-size: 1.0em;
+}
+
+#container {
+	background: url('images/cctv.png') right top no-repeat;
+	text-align: left;
+	vertical-align: middle;	
+	margin: 0px auto;
+	padding: 0px;
+	width: 900px;
+}
+
+#header {
+	background: url('images/banner.png') 15px 0px no-repeat;
+	height: 210px;
+}
+
+#headertext {
+	display: none;
+}
+
+#header ul {
+	height: 90px;
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+}
+
+#header ul li {
+	height: 15px;
+	float: right;
+	padding: 5px 10px;
+	margin: 185px 5px 0 5px;
+	display: inline;
+	background: url('images/bgtr.png');
+}
+
+#header ul li a {
+	line-height: 15px;
+	color: #ffe7cf;	
+	text-align: center;
+	border: none;
+}
+
+#content {
+	border: 2px solid #aaa;
+	background: url('images/balls.png') bottom center no-repeat;
+	padding: 10px 10px 40px 10px;
+	clear: both;
+}
+
+#email {
+	height: 22px;
+	line-height: 22px;
+	padding-left: 25px;
+	background: url('images/email.png') center left no-repeat;
+}
+
+#gallery {
+	list-style-type:none;
+	margin: 0;
+	padding: 0;
+}
+
+#gallery li {
+	float: left;
+	margin: 5px;
+}
+
+#footer {
+	padding: 10px 10px 12px 10px;
+	font-size: 0.8em;
+}
+
+#footer ul {
+	list-style-type: none;
+	float: right;
+	margin: 0;
+	padding: 0;
+}
+
+#footer ul li {
+	display: inline;
+	margin: 0;
+	padding: 0;
+}
+
+#footer a {
+}
+
+#frontpage {
+	text-align: center;
+}
+
+#frontpage a {
+	margin: 10px 0;
+	border: none;
+}
+
+.productionimg {
+	float: right;
+	margin-left: 15px;
+}
+
+.left {	
+	float: left;
+	margin: 10px 10px 10px 0;
+}
+.clear {
+	clear: both;
+}
+
+p.email, p.phone {
+	padding-left: 22px;
+	line-height: 16px;
+	margin-left: 16px;
+}
+
+p.email {
+	background: url("images/email.png") center left no-repeat;
+}
+
+p.phone {
+	background: url("images/phone.png") center left no-repeat;
+}
+
+.show {
+	font-weight: bold;
+}
